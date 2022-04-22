@@ -1,1 +1,2 @@
-resources/*.ifc
+*/resources/*.ifc
+/resources/*.ifc
